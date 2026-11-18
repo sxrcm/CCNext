@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 env:
-  UPSTREAM_REPOSITORY: xinnan-tech/xiaozhi-esp32-server
+  UPSTREAM_REPOSITORY: PAICNI/CFNext
   UPSTREAM_BRANCH: main
   TARGET_BRANCH: main
 
